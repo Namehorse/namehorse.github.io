@@ -10,18 +10,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Header</h1>            
-        </div>
-        <div class="content">            
-            <div class="left">
-                <h1>Left</h1>
-            </div>
-            <div class="right">
-                <h1>Right</h1>
-            </div>
-        </div>
-        <div class="footer">            
-            <h1>Footer</h1>
+            <h1>Coming Soon</h1>            
         </div>
     </div>
 </body>    

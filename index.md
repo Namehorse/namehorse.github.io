@@ -11,7 +11,6 @@
         <div class="header">
             <h1>List</h1>            
         </div>
-        <hr></hr>
     </div>
 </body>    
 </html>

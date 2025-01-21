@@ -9,8 +9,9 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Coming Soon</h1>            
+            <h1>List</h1>            
         </div>
+        <hr></hr>
     </div>
 </body>    
 </html>

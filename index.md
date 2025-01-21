@@ -12,10 +12,9 @@
             <h1>List</h1>            
         </div>
     </div>
-    
-    <div class="header">
-          <h2>1.Master Data</h2>            
-    </div>
+          
+    <h2>1.Master Data</h2>            
+   
     
 </body>    
 </html>
